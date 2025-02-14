@@ -1,0 +1,23 @@
+#hobbies{
+    background-color: rgb(148, 245, 213);
+    border-radius: 20px;
+}
+
+#movies{
+    background-color: rgb(247, 197, 180);
+    border-radius: 20px;
+}
+
+#sites{
+    background-color: rgb(246, 248, 96);
+    border-radius: 20px;
+}
+
+#schedule{
+    background-color: slategray;
+    border-radius: 20px;
+}
+
+#temp{
+    opacity: 0%;
+}
